@@ -5,7 +5,7 @@ radio access network slicing. This repository contains the simulation,
 experiment orchestration, and analysis artifact for the paper:
 
 > M. Taimoor Tariq, Yongzhou Chen, Haitham Hassanieh, and Radhika Mittal.
-> “Enabling Interference-Aware RAN Slicing.” NINeS 2026.
+> “Performance Isolation for 5G RAN Slices Across Multiple Interfering Cells” NINeS 2026.
 
 The artifact includes collected real-world cellular traces used by its
 trace-driven simulations and provides a reproducible workflow for building the
