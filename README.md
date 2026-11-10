@@ -4,7 +4,7 @@ RadioNinja is a research prototype for interference-aware resource allocation in
 radio access network slicing. This repository contains the simulation,
 experiment orchestration, and analysis artifact for the paper:
 
-> M. Taimoor Tariq, Yuhang Chen, Haitham Hassanieh, and Radhika Mittal.
+> M. Taimoor Tariq, Yongzhou Chen, Haitham Hassanieh, and Radhika Mittal.
 > “Enabling Interference-Aware RAN Slicing.” NINeS 2026.
 
 The artifact includes collected real-world cellular traces used by its
