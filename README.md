@@ -4,8 +4,10 @@ RadioNinja is a research prototype for interference-aware resource allocation in
 radio access network slicing. This repository contains the simulation,
 experiment orchestration, and analysis artifact for the paper:
 
-> M. Taimoor Tariq, Yongzhou Chen, Haitham Hassanieh, and Radhika Mittal.
-> “Performance Isolation for 5G RAN Slices Across Multiple Interfering Cells” NINeS 2026.
+> Taimoor Tariq, Yongzhou Chen, Haitham Hassanieh, and Radhika Mittal.
+> Performance Isolation for 5G RAN Slices Across Multiple Interfering Cells.
+> In 1st New Ideas in Networked Systems (NINeS 2026). Open Access Series in Informatics (OASIcs), Volume 139, pp. 2:1-2:29, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2026)
+> https://doi.org/10.4230/OASIcs.NINeS.2026.2
 
 The artifact includes collected real-world cellular traces used by its
 trace-driven simulations and provides a reproducible workflow for building the
